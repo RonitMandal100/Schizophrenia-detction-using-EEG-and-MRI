@@ -1,0 +1,7 @@
+numpy
+scipy
+pandas
+scikit-learn
+# only if your MRI files are 4D NIfTI images (.nii / .nii.gz):
+# nilearn
+# nibabel
